@@ -6,6 +6,7 @@ import PageNotFound from './lib/PageNotFound';
 import { AuthProvider, useAuth } from '@/lib/AuthContext';
 import UserNotRegisteredError from '@/components/UserNotRegisteredError';
 import Login from '@/components/Login';
+import AppAccessGate from '@/components/AppAccessGate';
 import MijnKastPage from '@/pages/MijnKast';
 import ToevoegenPage from '@/pages/Toevoegen';
 import KledingstukDetailPage from '@/pages/KledingstukDetail';
@@ -37,17 +38,19 @@ const AuthenticatedApp = () => {
   }
 
   return (
-    <Routes>
-      <Route path="/" element={<MijnKastPage />} />
-      <Route path="/toevoegen" element={<ToevoegenPage />} />
-      <Route path="/kledingstuk/:id" element={<KledingstukDetailPage />} />
-      <Route path="/outfit-van-de-dag" element={<OutfitVanDeDagPage />} />
-      <Route path="/historie" element={<HistoriePage />} />
-      <Route path="/profiel" element={<ProfielPage />} />
-      <Route path="/weer" element={<WeerPage />} />
-      <Route path="/instellingen" element={<InstellingenPage />} />
-      <Route path="*" element={<PageNotFound />} />
-    </Routes>
+    <AppAccessGate app="aitfit" naam="Outfit AI">
+      <Routes>
+        <Route path="/" element={<MijnKastPage />} />
+        <Route path="/toevoegen" element={<ToevoegenPage />} />
+        <Route path="/kledingstuk/:id" element={<KledingstukDetailPage />} />
+        <Route path="/outfit-van-de-dag" element={<OutfitVanDeDagPage />} />
+        <Route path="/historie" element={<HistoriePage />} />
+        <Route path="/profiel" element={<ProfielPage />} />
+        <Route path="/weer" element={<WeerPage />} />
+        <Route path="/instellingen" element={<InstellingenPage />} />
+        <Route path="*" element={<PageNotFound />} />
+      </Routes>
+    </AppAccessGate>
   );
 };
 

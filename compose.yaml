@@ -1,0 +1,16 @@
+name: aitfit
+
+services:
+  aitfit:
+    build:
+      context: .
+      args:
+        VITE_SUPABASE_URL: ${VITE_SUPABASE_URL:?ontbreekt in .env}
+        VITE_SUPABASE_ANON_KEY: ${VITE_SUPABASE_ANON_KEY:?ontbreekt in .env}
+    container_name: aitfit
+    restart: unless-stopped
+    networks: [homelab]
+
+networks:
+  homelab:
+    external: true
