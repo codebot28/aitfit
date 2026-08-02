@@ -37,3 +37,19 @@ Open [Base44.com](http://Base44.com) and click on Publish.
 Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
 
 Support: [https://app.base44.com/support](https://app.base44.com/support)
+
+---
+
+**Kledingfoto's (homelab)**
+
+De foto's van de kledingstukken staan bij Base44. Om ze lokaal te draaien:
+
+```bash
+npm i -D sharp        # optioneel, voor kleinere bestanden
+npm run kleding:fotos # zet alle foto's in public/kleding/ als <CODE>.jpg
+```
+
+Daarna wijzen `foto_url` en de variantfoto's in de database nog naar Base44; met
+`outfits/kleding-fotos-lokaal.sql` zet je ze om naar `/kleding/<CODE>.jpg`.
+Zie [`public/kleding/README.md`](public/kleding/README.md) voor het overzicht
+van alle codes en bestandsnamen.

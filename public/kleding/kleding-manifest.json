@@ -1,0 +1,1404 @@
+{
+  "bron": "Base44 — app Outfit AI (6a160fd06406ba66321a1fc8), entiteit Kledingstuk",
+  "geexporteerd_op": "2026-08-02T20:23:18.213Z",
+  "map": "public/kleding",
+  "naamgeving": "<CODE>.jpg voor de hoofdfoto, <CODE>__<VARIANTCODE>.jpg voor een afwijkende kleurvariant",
+  "aantal_kledingstukken": 65,
+  "aantal_afbeeldingen": 75,
+  "kledingstukken": [
+    {
+      "code": "BBK1",
+      "bestand": "BBK1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/f375bc5de_17802670032017847045664490494084.jpg",
+      "id": "6a1cb876f1bb78b19c0ac1d4",
+      "beschrijving": "donkerblauwe korte joggingbroek met trekkoord",
+      "categorie": "onderkleding",
+      "type": "joggingbroek",
+      "kleur": "donkerblauw",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:38:46.173Z",
+      "varianten": [
+        {
+          "code": "BWK1",
+          "kleur": "wit",
+          "bestand": "BBK1__BWK1.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/7edfdcd23_40194.jpg"
+        }
+      ]
+    },
+    {
+      "code": "BBL1",
+      "bestand": "BBL1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/2c85a27fe_1779837815598923863020995274038.jpg",
+      "id": "6a162b996b1f5bd1e169021c",
+      "beschrijving": "lichtblauwe jeans met washed effect",
+      "categorie": "onderkleding",
+      "type": "jeans",
+      "kleur": "lichtblauw",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": "• Zit niet lekker. Draag je alleen als het moet, bijvoorbeeld bij vuil werk of informele werksituaties waar nette broeken niet passen.\n• Te warm voor warme dagen. Draag je deze broek alleen bij hele specifieke gelegenheden — je geeft dit zelf aan in je dagplanning.\n• Te warm voor warme dagen. Draag je dit alleen bij hele specifieke gelegenheden — je geeft het zelf aan wanneer je het wilt dragen.",
+      "aangemaakt_op": "2026-05-26T23:24:09.277Z",
+      "varianten": []
+    },
+    {
+      "code": "BBL2",
+      "bestand": "BBL2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/9483e6c84_17802698275552926449390728072104.jpg",
+      "id": "6a1cc32b2380878a6ac53403",
+      "beschrijving": "Donkerblauwe lange spijkerbroek met streepjes",
+      "categorie": "onderkleding",
+      "type": "spijkerbroek",
+      "kleur": "donkerblauw",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:24:26.911Z",
+      "varianten": []
+    },
+    {
+      "code": "BGR1",
+      "bestand": "BGR1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b008002b7_17798366574721431078964191097420.jpg",
+      "id": "6a1627076c9e5bf76160d5dd",
+      "beschrijving": "donkergroene rechte pantalon",
+      "categorie": "onderkleding",
+      "type": "pantalon",
+      "kleur": "donkergroen",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": "• Draag je eigenlijk alleen naar feesten of gelegenheden waar je netjes moet verschijnen met een beetje kleur. Niet voor dagelijks werk.",
+      "aangemaakt_op": "2026-05-26T23:04:39.144Z",
+      "varianten": []
+    },
+    {
+      "code": "BWL1",
+      "bestand": "BWL1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/0f4479b1b_17802700100023582841342869890841.jpg",
+      "id": "6a1cc411ea74d875d948288c",
+      "beschrijving": "Witte lange chino broek",
+      "categorie": "onderkleding",
+      "type": "chino",
+      "kleur": "wit",
+      "mouwen": "nvt",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:28:17.327Z",
+      "varianten": [
+        {
+          "code": "BBL2",
+          "kleur": "blauw",
+          "bestand": "BWL1__BBL2.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b39163911_40203.jpg"
+        }
+      ]
+    },
+    {
+      "code": "BZ1",
+      "bestand": "BZ1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/44ccb182b_1780164801942268109958408331726.jpg",
+      "id": "6a1b28e6abacd1aecaae9b63",
+      "beschrijving": "Zwarte effen pantalon",
+      "categorie": "onderkleding",
+      "type": "pantalon",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "formeel",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-30T18:13:58.770Z",
+      "varianten": []
+    },
+    {
+      "code": "BZ2",
+      "bestand": "BZ2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/88eb43b7c_17802672890187213756468160986056.jpg",
+      "id": "6a1cb93a4503aad7497c8c09",
+      "beschrijving": "zwarte joggingbroek met witte trekkoord",
+      "categorie": "onderkleding",
+      "type": "joggingbroek",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "dik",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:42:02.067Z",
+      "varianten": []
+    },
+    {
+      "code": "BZK1",
+      "bestand": "BZK1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b9a801cd4_17798371601114709091865820142024.jpg",
+      "id": "6a16290f6f1489feddffd31b",
+      "beschrijving": "Zwarte shorts effen zonder patroon katoen",
+      "categorie": "onderkleding",
+      "type": "shorts",
+      "kleur": "zwart",
+      "mouwen": "geen",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:13:19.116Z",
+      "varianten": []
+    },
+    {
+      "code": "BZK2",
+      "bestand": "BZK2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/e191ff6d2_17802675249771886381187127184525.jpg",
+      "id": "6a1cba19cae3679b81b803b7",
+      "beschrijving": "zwarte korte joggingbroek met trekkoord",
+      "categorie": "onderkleding",
+      "type": "joggingbroek",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:45:45.109Z",
+      "varianten": []
+    },
+    {
+      "code": "BZL1",
+      "bestand": "BZL1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/204d6c739_17798361146107575171650798407609.jpg",
+      "id": "6a1625022ff481abb78ca126",
+      "beschrijving": "zwarte pantalon effen stof",
+      "categorie": "onderkleding",
+      "type": "pantalon",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "formeel",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T22:56:02.025Z",
+      "varianten": []
+    },
+    {
+      "code": "BZL2",
+      "bestand": "BZL2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/18833f9fb_17801646918869221511066532329056.jpg",
+      "id": "6a1b28774cb887529a8d42fc",
+      "beschrijving": "Zwarte lange linnen broek met touwtje",
+      "categorie": "onderkleding",
+      "type": "linnen broek",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-30T18:12:07.354Z",
+      "varianten": []
+    },
+    {
+      "code": "JB1",
+      "bestand": "JB1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b1d46ee5f_17798368462786102034054301927519.jpg",
+      "id": "6a1627c3fa15c31a9c0c60d9",
+      "beschrijving": "donkerblauwe gewatteerde jas met capuchon",
+      "categorie": "jas",
+      "type": "gewatteerde jas",
+      "kleur": "donkerblauw",
+      "mouwen": "lang",
+      "dikte": "dik",
+      "seizoen": [
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:07:47.395Z",
+      "varianten": []
+    },
+    {
+      "code": "JZ1",
+      "bestand": "JZ1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/3763292eb_17798367575166695213666847300315.jpg",
+      "id": "6a1627938ea7d606237e610e",
+      "beschrijving": "zwarte lange overjas met knopen",
+      "categorie": "jas",
+      "type": "overjas",
+      "kleur": "zwart",
+      "mouwen": "lang",
+      "dikte": "dik",
+      "seizoen": [
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "formeel",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:06:59.332Z",
+      "varianten": []
+    },
+    {
+      "code": "JZ2",
+      "bestand": "JZ2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/44833bc92_17798368786704827956016314911528.jpg",
+      "id": "6a1627e6d9e533eb7470ce7e",
+      "beschrijving": "zwarte gewatteerde jas met rits",
+      "categorie": "jas",
+      "type": "gewatteerde jas",
+      "kleur": "zwart",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:08:21.902Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB1",
+      "bestand": "OVB1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/a31bd2c96_1779837409375771132703191112939.jpg",
+      "id": "6a1629fc3462979d236f5ff4",
+      "beschrijving": "donkerblauwe gebreide trui met ronde hals",
+      "categorie": "bovenkleding",
+      "type": "gebreide trui",
+      "kleur": "donkerblauw",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": "• Is vrij dik en daardoor te warm voor dagen waarbij het niet koud genoeg is voor een zware trui.",
+      "aangemaakt_op": "2026-05-26T23:17:16.600Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB2",
+      "bestand": "OVB2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/76273ced8_17802676155494790728036163422707.jpg",
+      "id": "6a1cba79f5514a7d383df2f1",
+      "beschrijving": "donkerblauwe effen hoodie met kangoeroe zak",
+      "categorie": "bovenkleding",
+      "type": "hoodie",
+      "kleur": "donkerblauw",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:47:21.657Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB3",
+      "bestand": "OVB3.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/dcd02c166_17802678674712150762530045237051.jpg",
+      "id": "6a1cbb798317aab29b92e3aa",
+      "beschrijving": "donkerblauwe hoodie met opschrift",
+      "categorie": "bovenkleding",
+      "type": "hoodie",
+      "kleur": "donkerblauw",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:51:36.927Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB4",
+      "bestand": "OVB4.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/dc8120a19_17802679360117607143265583713221.jpg",
+      "id": "6a1cbbd09a2e13171d1853c5",
+      "beschrijving": "donkerblauwe gebreide sweater ronde hals",
+      "categorie": "bovenkleding",
+      "type": "sweater",
+      "kleur": "donkerblauw",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:53:04.619Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB5",
+      "bestand": "OVB5.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b01f7ed76_17802693996241720798232783075663.jpg",
+      "id": "6a1cc19301241b3ec2695d9e",
+      "beschrijving": "Blauwe sweater met knoopkraag",
+      "categorie": "bovenkleding",
+      "type": "sweater",
+      "kleur": "blauw",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:17:38.955Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB6",
+      "bestand": "OVB6.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/f95e9a97c_17802694851956928974340723802868.jpg",
+      "id": "6a1cc1c517dd19ccaecfd52c",
+      "beschrijving": "zwarte hoodie met blauwe opdruk",
+      "categorie": "bovenkleding",
+      "type": "hoodie",
+      "kleur": "zwart",
+      "mouwen": "lang",
+      "dikte": "dik",
+      "seizoen": [
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:18:29.659Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB7",
+      "bestand": "OVB7.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/2a3bbec93_17802697143361374577498444266147.jpg",
+      "id": "6a1cc2c110c66a5a788b30fc",
+      "beschrijving": "Donkerblauwe waffle-knit longsleeve trui",
+      "categorie": "bovenkleding",
+      "type": "longsleeve trui",
+      "kleur": "donkerblauw",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:22:41.136Z",
+      "varianten": []
+    },
+    {
+      "code": "OVB8",
+      "bestand": "OVB8.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/5ff6db5a7_17802709042168119049354768007827.jpg",
+      "id": "6a1cc763655605ca3d47742e",
+      "beschrijving": "donkerblauwe vest met rits",
+      "categorie": "bovenkleding",
+      "type": "vest",
+      "kleur": "donkerblauw",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": "• Dit is je zeilvest: je draagt het enkel tijdens het zeilen of als je het koud hebt en kort ergens heen moet. Niet geschikt als regulier werkoutfit-item.",
+      "aangemaakt_op": "2026-05-31T23:42:27.052Z",
+      "varianten": []
+    },
+    {
+      "code": "OVGR1",
+      "bestand": "OVGR1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/cd0795415_17798363918727296421662976899490.jpg",
+      "id": "6a162602829cdd24450b56ad",
+      "beschrijving": "donkergroene trui met ronde hals",
+      "categorie": "bovenkleding",
+      "type": "trui",
+      "kleur": "donkergroen",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:00:18.343Z",
+      "varianten": []
+    },
+    {
+      "code": "OVGR2",
+      "bestand": "OVGR2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/58be352a8_17798365357325547963635486472179.jpg",
+      "id": "6a1626b3ab5e767a5c850f52",
+      "beschrijving": "Donkergroene colbert met knopen",
+      "categorie": "bovenkleding",
+      "type": "colbert",
+      "kleur": "donkergroen",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:03:15.071Z",
+      "varianten": []
+    },
+    {
+      "code": "OVGR3",
+      "bestand": "OVGR3.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/3a1e3aac8_17798366123052923752898576733362.jpg",
+      "id": "6a1626df7ea816f370214c03",
+      "beschrijving": "donkergroene gilet met knopen",
+      "categorie": "bovenkleding",
+      "type": "gilet",
+      "kleur": "donkergroen",
+      "mouwen": "geen",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:03:58.897Z",
+      "varianten": []
+    },
+    {
+      "code": "OVGR4",
+      "bestand": "OVGR4.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/53f53378f_17802675641014648724047708137383.jpg",
+      "id": "6a1cba491bd62f6668f2a59c",
+      "beschrijving": "donkergroene sweater met ronde hals",
+      "categorie": "bovenkleding",
+      "type": "sweater",
+      "kleur": "donkergroen",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:46:33.861Z",
+      "varianten": []
+    },
+    {
+      "code": "OVGR5",
+      "bestand": "OVGR5.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b814c34ae_17802701631406554412867289277998.jpg",
+      "id": "6a1cc478d0b3c8472f96f791",
+      "beschrijving": "donkergroene gebreide trui met ronde hals",
+      "categorie": "bovenkleding",
+      "type": "gebreide trui",
+      "kleur": "donkergroen",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:30:00.737Z",
+      "varianten": []
+    },
+    {
+      "code": "OVGR6",
+      "bestand": "OVGR6.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/113008294_17802702197535502780701625884274.jpg",
+      "id": "6a1cc4d7ea74d875d94828e6",
+      "beschrijving": "donkergroene effen sweater met v-hals",
+      "categorie": "bovenkleding",
+      "type": "sweater",
+      "kleur": "donkergroen",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:31:35.666Z",
+      "varianten": []
+    },
+    {
+      "code": "OVR1",
+      "bestand": "OVR1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/1137807b0_17802703015483626510804893724284.jpg",
+      "id": "6a1cc4fcc5e5f7478ef83924",
+      "beschrijving": "bordeauxrode effen gebreide trui",
+      "categorie": "bovenkleding",
+      "type": "gebreide trui",
+      "kleur": "bordeauxrood",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:32:12.632Z",
+      "varianten": []
+    },
+    {
+      "code": "OVR2",
+      "bestand": "OVR2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/e88bed967_17802703405508806012930596501855.jpg",
+      "id": "6a1cc53a9d7bd70a20a7c850",
+      "beschrijving": "Bordeauxrode effen turtleneck trui",
+      "categorie": "bovenkleding",
+      "type": "turtleneck trui",
+      "kleur": "bordeauxrood",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "herfst"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:33:14.365Z",
+      "varianten": []
+    },
+    {
+      "code": "OVZ1",
+      "bestand": "OVZ1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/6592765f7_17798364667103169923718091821661.jpg",
+      "id": "6a1626485abc0673141d963a",
+      "beschrijving": "zwart colbert met lange mouwen",
+      "categorie": "bovenkleding",
+      "type": "colbert",
+      "kleur": "zwart",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "formeel",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:01:28.168Z",
+      "varianten": []
+    },
+    {
+      "code": "OVZ2",
+      "bestand": "OVZ2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/7b5c67b51_17802692906374688697520150300486.jpg",
+      "id": "6a1cc14f58d909ede6226758",
+      "beschrijving": "Zwarte trui met kwart-zip sluiting",
+      "categorie": "bovenkleding",
+      "type": "quarter-zip trui",
+      "kleur": "zwart",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:16:31.775Z",
+      "varianten": [
+        {
+          "code": "OVGR5",
+          "kleur": "groen",
+          "bestand": "OVZ2__OVGR5.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/404754d3c_40202.jpg"
+        }
+      ]
+    },
+    {
+      "code": "RB1",
+      "bestand": "RB1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/9b9101f37_17798377306007975477267510579254.jpg",
+      "id": "6a162b3b0b7fe6aac302fab6",
+      "beschrijving": "donkerblauwe gevlochten riem met leren details",
+      "categorie": "accessoire",
+      "type": "riem",
+      "kleur": "donkerblauw",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:22:35.472Z",
+      "varianten": []
+    },
+    {
+      "code": "RBR1",
+      "bestand": "RBR1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/bc8cd80ad_17798375460206913817323905877973.jpg",
+      "id": "6a162a7e1cdfe3d2003ed0db",
+      "beschrijving": "donkerbruine gevlochten riem met leren details",
+      "categorie": "accessoire",
+      "type": "riem",
+      "kleur": "donkerbruin",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:19:26.059Z",
+      "varianten": []
+    },
+    {
+      "code": "RZ1",
+      "bestand": "RZ1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/d604dc165_17798362657591441033283954591990.jpg",
+      "id": "6a16257d943ea00243021e2c",
+      "beschrijving": "zwarte leren riem met zilveren gesp",
+      "categorie": "accessoire",
+      "type": "riem",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T22:58:04.590Z",
+      "varianten": []
+    },
+    {
+      "code": "SB1",
+      "bestand": "SB1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/31ce14fb8_17798359820524882612079287997784.jpg",
+      "id": "6a16248af4937aa54ee9c0b5",
+      "beschrijving": "Donkerblauwe geribde polo korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "donkerblauw",
+      "mouwen": "kort",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T22:54:02.540Z",
+      "varianten": []
+    },
+    {
+      "code": "SB2",
+      "bestand": "SB2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/699866a94_17802674495975409571131645813634.jpg",
+      "id": "6a1cb9cf0e0913c30eaef992",
+      "beschrijving": "blauw tweekleurig t-shirt korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "t-shirt",
+      "kleur": "blauw",
+      "mouwen": "kort",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:44:31.472Z",
+      "varianten": []
+    },
+    {
+      "code": "SBK1",
+      "bestand": "SBK1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b38a5bf7d_17798360529293268516199312604587.jpg",
+      "id": "6a1624b09319dd761fc9cce6",
+      "beschrijving": "blauw t-shirt met papegaaienprint",
+      "categorie": "bovenkleding",
+      "type": "t-shirt",
+      "kleur": "blauw",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T22:54:39.799Z",
+      "varianten": []
+    },
+    {
+      "code": "SBK2",
+      "bestand": "SBK2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/4371aea3a_17802682083184603186185001867285.jpg",
+      "id": "6a1cbcc42432d4eeb382d29d",
+      "beschrijving": "blauw t-shirt met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "t-shirt",
+      "kleur": "blauw",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:57:08.207Z",
+      "varianten": []
+    },
+    {
+      "code": "SBL1",
+      "bestand": "SBL1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/52a78108e_17802690965977473869976946050282.jpg",
+      "id": "6a1cc04a632a4fa76db2e4d8",
+      "beschrijving": "Blauwe blouse met hond hotdog print",
+      "categorie": "bovenkleding",
+      "type": "blouse",
+      "kleur": "blauw",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:12:10.147Z",
+      "varianten": []
+    },
+    {
+      "code": "SCB1",
+      "bestand": "SCB1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/ea5f98e62_17798369133413416421020677006778.jpg",
+      "id": "6a16280417d7c0dea94522fa",
+      "beschrijving": "donkerblauwe en witte leren sneakers",
+      "categorie": "schoeisel",
+      "type": "sneakers",
+      "kleur": "donkerblauw en wit",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": "• Past minder goed bij een volledig zwarte outfit. Kies in dat geval voor zwarte schoenen.",
+      "aangemaakt_op": "2026-05-26T23:08:51.904Z",
+      "varianten": []
+    },
+    {
+      "code": "SCB2",
+      "bestand": "SCB2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/349c84fb8_17798370972235955656245814791791.jpg",
+      "id": "6a1628cb2ac9912d0c5a2f26",
+      "beschrijving": "donkerblauwe canvas sneakers met veters (net)",
+      "categorie": "schoeisel",
+      "type": "sneaker",
+      "kleur": "donkerblauw",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:12:10.729Z",
+      "varianten": []
+    },
+    {
+      "code": "SCW1",
+      "bestand": "SCW1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/fa52eae76_17798369378065409034752772649641.jpg",
+      "id": "6a162827a09e90b5c015d6a8",
+      "beschrijving": "wit-zwarte leren sneakers met veters",
+      "categorie": "schoeisel",
+      "type": "sneaker",
+      "kleur": "wit-zwart",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:09:26.725Z",
+      "varianten": []
+    },
+    {
+      "code": "SCZ1",
+      "bestand": "SCZ1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/69f726400_17798369727138138072004809865217.jpg",
+      "id": "6a16284883ff909d25a2eb92",
+      "beschrijving": "zwarte sneakers met witte zool (sport)",
+      "categorie": "schoeisel",
+      "type": "sneaker",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": "• Draag je uitsluitend voor het sporten, niet op dagelijkse basis.",
+      "aangemaakt_op": "2026-05-26T23:10:00.129Z",
+      "varianten": []
+    },
+    {
+      "code": "SCZ2",
+      "bestand": "SCZ2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/6d8c8495f_17798370071961700821291841758286.jpg",
+      "id": "6a1628683462979d236f5f04",
+      "beschrijving": "zwarte hoge wandelschoenen met veters (klus schoenen)",
+      "categorie": "schoeisel",
+      "type": "wandelschoenen",
+      "kleur": "zwart",
+      "mouwen": "nvt",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:10:31.650Z",
+      "varianten": []
+    },
+    {
+      "code": "SGK1",
+      "bestand": "SGK1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/b62a041a2_1780268286586384611595833374619.jpg",
+      "id": "6a1cbd152e9322899cf3e28d",
+      "beschrijving": "donkergrijs t-shirt met borstzakje",
+      "categorie": "bovenkleding",
+      "type": "t-shirt",
+      "kleur": "donkergrijs",
+      "mouwen": "kort",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:58:29.321Z",
+      "varianten": []
+    },
+    {
+      "code": "SGR1",
+      "bestand": "SGR1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/241a06dbc_17802704186412360005028344705096.jpg",
+      "id": "6a1cc5765e9150023ab006d8",
+      "beschrijving": "donkergroene polo met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "donkergroen",
+      "mouwen": "kort",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:34:14.010Z",
+      "varianten": []
+    },
+    {
+      "code": "SGRK1",
+      "bestand": "SGRK1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/3406712dc_17798358190074209178453926503867.jpg",
+      "id": "6a1623f3fb43b755726a7097",
+      "beschrijving": "groene polo met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "groen",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T22:51:31.484Z",
+      "varianten": []
+    },
+    {
+      "code": "SGRK2",
+      "bestand": "SGRK2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/641395990_17798363058759120679273920674853.jpg",
+      "id": "6a1625df89f0aef408ca9bcd",
+      "beschrijving": "groen t-shirt met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "t-shirt",
+      "kleur": "groen",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T22:59:43.313Z",
+      "varianten": [
+        {
+          "code": "SBK3",
+          "kleur": "blauw",
+          "bestand": "SGRK2__SBK3.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/8eec07780_40196.jpg"
+        },
+        {
+          "code": "SGK1",
+          "kleur": "grijs",
+          "bestand": "SGRK2__SGK1.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/71cda92de_40195.jpg"
+        },
+        {
+          "code": "SZK3",
+          "kleur": "zwart",
+          "bestand": "SGRK2__SZK3.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/4f92015d7_40201.jpg"
+        }
+      ]
+    },
+    {
+      "code": "SR1",
+      "bestand": "SR1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/4f68bb15b_17802671464027211109203594079450.jpg",
+      "id": "6a1cb8c9d9618cb2921922f4",
+      "beschrijving": "bordeauxrood t-shirt met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "t-shirt",
+      "kleur": "bordeauxrood",
+      "mouwen": "kort",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:40:09.427Z",
+      "varianten": [
+        {
+          "code": "SBK3",
+          "kleur": "blauw",
+          "bestand": "SR1__SBK3.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/84aa16b7d_40200.jpg"
+        },
+        {
+          "code": "SZK3",
+          "kleur": "zwart",
+          "bestand": "SR1__SZK3.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/7e5674b81_40200.jpg"
+        },
+        {
+          "code": "SGRK3",
+          "kleur": "groen",
+          "bestand": "SR1__SGRK3.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/57b8b08b7_40198.jpg"
+        },
+        {
+          "code": "SWK2",
+          "kleur": "wit",
+          "bestand": "SR1__SWK2.jpg",
+          "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/97c6234e6_40199.jpg"
+        }
+      ]
+    },
+    {
+      "code": "SW1",
+      "bestand": "SW1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/95f14b7a7_17802706180025735126603926705753.jpg",
+      "id": "6a1cc63b65009661427704d0",
+      "beschrijving": "wit overhemd met lange mouwen",
+      "categorie": "bovenkleding",
+      "type": "overhemd",
+      "kleur": "wit",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "formeel",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:37:31.408Z",
+      "varianten": []
+    },
+    {
+      "code": "SWK1",
+      "bestand": "SWK1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/465a1a47e_17798361999185864591457537055022.jpg",
+      "id": "6a162556453f8cce8efac4f9",
+      "beschrijving": "witte polo met subtiele strepen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "wit",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T22:57:26.397Z",
+      "varianten": []
+    },
+    {
+      "code": "SWK2",
+      "bestand": "SWK2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/ae2a9373e_17802689588906419600014127896578.jpg",
+      "id": "6a1cbfc378d853eb4f202155",
+      "beschrijving": "Wit Hawaiiaanse blouse  met tropisch print",
+      "categorie": "bovenkleding",
+      "type": "Hawaiiaanse blouse",
+      "kleur": "wit",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:09:55.794Z",
+      "varianten": []
+    },
+    {
+      "code": "SWL1",
+      "bestand": "SWL1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/6aeb069d5_17802688843688979741919059937023.jpg",
+      "id": "6a1cbf7901e79d540e563939",
+      "beschrijving": "wit overhemd met Hawaii print",
+      "categorie": "bovenkleding",
+      "type": "Hawaii-overhemd",
+      "kleur": "wit",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": "Zit niet heel lekker als je veel zweet",
+      "aangemaakt_op": "2026-05-31T23:08:41.661Z",
+      "varianten": []
+    },
+    {
+      "code": "SWL2",
+      "bestand": "SWL2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/6cb6f3a66_17802706547805134336194826383706.jpg",
+      "id": "6a1cc66f353cb7e217aa253e",
+      "beschrijving": "Wit overhemd met lange mouwen en autootjes in de kraag",
+      "categorie": "bovenkleding",
+      "type": "overhemd",
+      "kleur": "wit",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst",
+        "winter"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:38:22.912Z",
+      "varianten": []
+    },
+    {
+      "code": "SWL3",
+      "bestand": "SWL3.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/9a7c70d46_1780270705785482572986997275435.jpg",
+      "id": "6a1cc6b7ca364f756c34fb2b",
+      "beschrijving": "Wit overhemd met lange mouwen en blauw patroon in de kraag",
+      "categorie": "bovenkleding",
+      "type": "overhemd",
+      "kleur": "wit",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:39:35.615Z",
+      "varianten": []
+    },
+    {
+      "code": "SWL4",
+      "bestand": "SWL4.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/145743a46_17802707852871508628811527095458.jpg",
+      "id": "6a1cc6df4f340915d556231a",
+      "beschrijving": "Wit overhemd met lange mouwen (zacht)",
+      "categorie": "bovenkleding",
+      "type": "overhemd",
+      "kleur": "wit",
+      "mouwen": "lang",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer",
+        "herfst"
+      ],
+      "formeel_niveau": "formeel",
+      "opmerking": "Dit overhemd zit het lekkerst",
+      "aangemaakt_op": "2026-05-31T23:40:14.948Z",
+      "varianten": []
+    },
+    {
+      "code": "SZ1",
+      "bestand": "SZ1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/8dce788ca_17798372652408381606089220548876.jpg",
+      "id": "6a1629b3ec21db5aee96ff70",
+      "beschrijving": "zwarte blouse met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "blouse",
+      "kleur": "zwart",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-26T23:16:03.586Z",
+      "varianten": []
+    },
+    {
+      "code": "SZ2",
+      "bestand": "SZ2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/65e4a33d8_17801645182963430973224082585611.jpg",
+      "id": "6a1b27fbfa3b163152f877fb",
+      "beschrijving": "Zwarte geribbelde polo met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "zwart",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-30T18:10:03.540Z",
+      "varianten": []
+    },
+    {
+      "code": "SZ3",
+      "bestand": "SZ3.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/2430910c0_17802687204415279272057692680273.jpg",
+      "id": "6a1cbed70f359eadedd18afb",
+      "beschrijving": "Zwarte polo met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "zwart",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:05:59.758Z",
+      "varianten": []
+    },
+    {
+      "code": "SZ4",
+      "bestand": "SZ4.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/2d13e2aaa_17802687906803300262836525922644.jpg",
+      "id": "6a1cbf259b488a877cc66a57",
+      "beschrijving": "Zwarte blouse met bananenprint",
+      "categorie": "bovenkleding",
+      "type": "blouse",
+      "kleur": "zwart",
+      "mouwen": "lang",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:07:17.177Z",
+      "varianten": []
+    },
+    {
+      "code": "SZK1",
+      "bestand": "SZK1.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/1031ba0b0_1780267785821557058975042098604.jpg",
+      "id": "6a1cbb2e467782ead06ea5c5",
+      "beschrijving": "zwart t-shirt met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "t-shirt",
+      "kleur": "zwart",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T22:50:22.805Z",
+      "varianten": []
+    },
+    {
+      "code": "SZK2",
+      "bestand": "SZK2.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/89a8155f2_17802704785648288677951714875796.jpg",
+      "id": "6a1cc5bc0aaa87b92e67dd95",
+      "beschrijving": "zwarte polo met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "zwart",
+      "mouwen": "kort",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:35:24.665Z",
+      "varianten": []
+    },
+    {
+      "code": "SZK3",
+      "bestand": "SZK3.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/ed671e4fe_17802705283246338778240101670935.jpg",
+      "id": "6a1cc6151bd62f6668f2ac39",
+      "beschrijving": "zwarte polo met korte mouwen",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "zwart",
+      "mouwen": "kort",
+      "dikte": "normaal",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-05-31T23:36:52.493Z",
+      "varianten": []
+    },
+    {
+      "code": "SZK4",
+      "bestand": "SZK4.jpg",
+      "bron_url": "https://base44.app/api/apps/6a160fd06406ba66321a1fc8/files/mp/public/6a160fd06406ba66321a1fc8/7ac3194d1_17802719929427975084570007763762.jpg",
+      "id": "6a1ccb9e8707499bfd20dce7",
+      "beschrijving": "Zwarte polo met korte mouwen en kleine gaten",
+      "categorie": "bovenkleding",
+      "type": "polo",
+      "kleur": "zwart",
+      "mouwen": "kort",
+      "dikte": "dun",
+      "seizoen": [
+        "lente",
+        "zomer"
+      ],
+      "formeel_niveau": "smart-casual",
+      "opmerking": null,
+      "aangemaakt_op": "2026-06-01T00:00:30.632Z",
+      "varianten": []
+    }
+  ]
+}
