@@ -32,3 +32,4 @@ dist-ssr
 
 # Eenmalige migratie-artefacten (bevat persoonlijke data-export)
 /_migratie
+public/kleding/*.jpg
