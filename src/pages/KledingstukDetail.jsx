@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { KledingFoto } from '@/lib/kleding-foto';
 import { useQuery, useQueryClient } from '@tanstack/react-query';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { base44 } from '@/api/base44Client';
@@ -134,7 +135,7 @@ export default function KledingstukDetailPage() {
         <div className="px-5 space-y-6 pb-6">
           <div className="aspect-[4/5] rounded-3xl overflow-hidden bg-muted">
             {variant?.foto_url ? (
-              <img src={variant.foto_url} alt={item.beschrijving} className="w-full h-full object-cover" />
+              <KledingFoto pad={variant.foto_url} alt={item.beschrijving} className="w-full h-full object-cover" />
             ) : (
               <GeenFotoPlaceholder />
             )}

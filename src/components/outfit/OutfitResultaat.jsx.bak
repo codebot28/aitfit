@@ -1,5 +1,4 @@
 import React from 'react';
-import { KledingFoto } from '@/lib/kleding-foto';
 import { Link } from 'react-router-dom';
 import { Sparkles, Lightbulb } from 'lucide-react';
 import { motion } from 'framer-motion';
@@ -26,8 +25,8 @@ export default function OutfitResultaat({ result, gekozenItems }) {
             return (
               <div key={item.id} className="bg-card aspect-square overflow-hidden relative">
                 {variant?.foto_url ? (
-                  <KledingFoto
-                    pad={variant.foto_url}
+                  <img
+                    src={variant.foto_url}
                     alt={item.beschrijving}
                     className="w-full h-full object-cover"
                   />

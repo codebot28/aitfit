@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { KledingFoto } from '@/lib/kleding-foto';
 import { Link } from 'react-router-dom';
 import { leesVarianten } from '@/lib/varianten';
 import KleurBolletjes from './KleurBolletjes';
@@ -20,8 +19,8 @@ export default function KledingstukKaart({ item, prioriteit = false }) {
     <Link to={`/kledingstuk/${item.id}`} className="group block space-y-2">
       <div className="aspect-[4/5] rounded-2xl overflow-hidden bg-muted relative">
         {variant?.foto_url ? (
-          <KledingFoto
-            pad={variant.foto_url}
+          <img
+            src={variant.foto_url}
             alt={item.beschrijving}
             loading={prioriteit ? 'eager' : 'lazy'}
             decoding="async"

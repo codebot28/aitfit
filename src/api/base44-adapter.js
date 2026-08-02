@@ -176,14 +176,15 @@ async function UploadFile({ file }) {
   const { data: { user } } = await supabase.auth.getUser();
   const ext = (file.name?.split('.').pop() || 'bin').toLowerCase();
   const rnd = (crypto?.randomUUID?.() || `${Date.now()}-${Math.round(Math.random() * 1e9)}`);
-  const path = `${user?.id ?? 'anon'}/${rnd}.${ext}`;
+  const path = `${user?.id ?? 'anon'}/kleding/${rnd}.${ext}`;
 
   const { error } = await supabase.storage
-    .from(STORAGE_BUCKET)
+    .from('kleding')
     .upload(path, file, { contentType: file.type, upsert: false });
   if (error) throw error;
 
-  const { data } = supabase.storage.from(STORAGE_BUCKET).getPublicUrl(path);
+  // Privebucket: sla het pad op, niet een publieke URL.
+  const data = { publicUrl: path };
   return { file_url: data.publicUrl };
 }
 

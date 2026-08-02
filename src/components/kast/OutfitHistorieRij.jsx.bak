@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { KledingFoto } from '@/lib/kleding-foto';
 import { Star, Pencil, MessageSquarePlus } from 'lucide-react';
 import { format, parseISO } from 'date-fns';
 import { nl } from 'date-fns/locale';
@@ -61,8 +60,8 @@ export default function OutfitHistorieRij({ outfit, kledingstukken }) {
               className="aspect-square rounded-lg overflow-hidden bg-muted"
             >
               {item.foto_url && (
-                <KledingFoto
-                  pad={item.foto_url}
+                <img
+                  src={item.foto_url}
                   alt={item.beschrijving}
                   className="w-full h-full object-cover"
                 />

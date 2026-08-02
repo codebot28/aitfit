@@ -1,5 +1,4 @@
 import React, { useRef, useState } from 'react';
-import { KledingFoto } from '@/lib/kleding-foto';
 import { base44 } from '@/api/base44Client';
 import { Loader2, Plus, X, ImagePlus, Search } from 'lucide-react';
 import { cn } from '@/lib/utils';
@@ -125,7 +124,7 @@ export default function ExtraKleurenEditor({ extraVarianten, onChange, gebruikte
                 </span>
 
                 {v.foto_url ? (
-                  <KledingFoto pad={v.foto_url} alt="" className="w-10 h-10 rounded-lg object-cover" />
+                  <img src={v.foto_url} alt="" className="w-10 h-10 rounded-lg object-cover" />
                 ) : null}
 
                 <button
